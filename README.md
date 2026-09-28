@@ -2,6 +2,10 @@
 # Student Data Organizer
 
 ## Project: Collection Manipulator
+------------------
+##video link
+https://drive.google.com/drive/folders/1GF1Y8JnLC7j0XBBvdWVdRYfzpC0no0UC?usp=sharing
+-------------------
 
 ## Objective
 A Python console program called **Student Data Organizer** that manages a collection of student records. The project applies intermediate-level Python concepts: string formatting and manipulation, collection data types (List, Tuple, Set, and Dictionary), mutability and immutability, type casting, and the `del` keyword.
